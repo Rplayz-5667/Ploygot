@@ -1,0 +1,6 @@
+{
+  "name": "Polyglot",
+  "description": "An interactive, AI-powered language-learning companion supporting over 150 languages with custom flashcards, real-time chats, and smart grammar quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
